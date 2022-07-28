@@ -1,0 +1,4 @@
+include ':activety_test'
+include ':myapplication'
+include ':myapplication2'
+include ':app'
